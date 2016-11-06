@@ -11,4 +11,3 @@ npm run build
 
 npm start
 ```
-TODO: can we use Typescript for the main process code.
